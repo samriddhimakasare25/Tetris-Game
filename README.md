@@ -1,5 +1,5 @@
 ## Tetris in Python
--This is a simple Tetris game based on python3 with pygame.
+- This is a simple Tetris game based on python3 with pygame.
 
 ## How to play?
 - Download all python files and store them to one folder.
