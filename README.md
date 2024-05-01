@@ -1,2 +1,17 @@
-# Tetris-Game
-Tetris Game made with Python
+## Tetris in Python
+-This is a simple Tetris game based on python3 with pygame.
+
+## How to play?
+- Download all python files and store them to one folder.
+- Open main.py to start play.
+
+## How to control?
+- Left and right to move, up to rotate, down to quick drop, space to hard drop.
+
+## Contribution
+- Everyone is welcome to contribute on this.
+
+## Test
+- Tested with python 3.6.3 and pygame 1.9.3, and auto-pygame-download part is tested under pip 9.
+
+
