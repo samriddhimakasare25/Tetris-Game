@@ -1,4 +1,3 @@
-
 import pygame,sys
 from game import Game
 from colors import Colors
@@ -47,7 +46,7 @@ while True:
 	#Drawing
 	score_value_surface = title_font.render(str(game.score), True, Colors.white)
 
-	screen.fill(Colors.dark_blue)
+	screen.fill(Colors.pink)
 	screen.blit(score_surface, (365, 20, 50, 50))
 	screen.blit(next_surface, (375, 180, 50, 50))
 
